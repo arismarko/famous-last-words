@@ -6,4 +6,5 @@ export default [
   'The leak is minor, we’ll just add more RAM later.',
   'Looks like it’s all working fine',
   'We’ll fix it later',
+  'Dont care how it works as long as it works'
 ];
